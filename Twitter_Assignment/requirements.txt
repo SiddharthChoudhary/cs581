@@ -1,0 +1,4 @@
+tweepy
+argparse
+unidecode
+textblob
